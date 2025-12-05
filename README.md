@@ -6,6 +6,7 @@ pytest
 
 # Screenshots
 <img src="app.png" width="80%">
+<img src="GH Actions.png" width="80%">
 
 # 📦 Project Setup
 
