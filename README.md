@@ -1,3 +1,12 @@
+# Docker Image
+https://hub.docker.com/r/ys659/assignment8
+
+# Testing
+pytest
+
+# Screenshots
+<img src="app.png" width="80%">
+
 # 📦 Project Setup
 
 ---
